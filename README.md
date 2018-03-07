@@ -25,6 +25,6 @@ Found this link to download remote sensing data.Follow the tutorial that the sit
 If any queries generate an issue and I will answer it.
 
 P.S.-Though we had earlier discussed that Abhishek and I will download the remote sensing images,I request all to download it and the best series of images will be selected for our project.
-
+Happy Coding.
 
 
